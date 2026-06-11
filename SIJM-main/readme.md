@@ -130,12 +130,3 @@ Password: Admin123
 ## 📄 Lisensi
 
 Project ini digunakan untuk keperluan pembelajaran.
-
-## Scenario Test Kelola Barang
-
-| No | Skenario | Input | Output yang Diharapkan | Status |
-|----|----------|--------|----------------------|--------|
-| 1 | Tambah Barang | Data valid | Data tersimpan | ✅ |
-| 2 | Tambah Barang | Nama kosong | Validasi muncul | ✅ |
-| 3 | Edit Barang | Data baru | Data diperbarui | ✅ |
-| 4 | Hapus Barang | Klik hapus | Data terhapus | ✅ |
